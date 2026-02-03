@@ -171,9 +171,7 @@ The selected mesh provided stable stress and strain predictions while remaining 
 # 6. Results
 
 - Longitudinal tensile failure predicted at ≈ 24 kN
-- Homogeneous stress distribution in reduced section
-- Good agreement between FEM predictions and experimental trends
-- Tsai–Hill index successfully predicted onset of failure
+- Previous dataset overestimated the Twill 200 gsm properties
 
 ---
 
