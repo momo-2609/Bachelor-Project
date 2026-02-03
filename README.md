@@ -16,8 +16,6 @@ The objective was to verify the mechanical properties of carbon fiber laminates 
 - Mechanical testing (traction, bending, shear)
 - Comparison between numerical and experimental results
 
-The aerodynamic design section of the original report is intentionally excluded from this repository.
-
 Full report available in `report.pdf`.
 
 ---
